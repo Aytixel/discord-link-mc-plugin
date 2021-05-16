@@ -1,0 +1,8 @@
+name: DiscordLinkMC
+version: 1.0
+author: Aytixel
+main: fr.aytixel.discordlinkmc.Main
+commands:
+  discordlinkmc:
+    description: Command to link your minecraft with discord
+    usage: Error in the command
